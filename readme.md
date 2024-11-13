@@ -121,8 +121,11 @@ Este proyecto es una aplicación de gestión de proyectos con un backend basado 
 ## Notas
 
 - Asegúrate de reemplazar los valores de las variables de entorno con tus propias credenciales y configuraciones.
-- Puedes obtener las credenciales para Mailtrap registrándote en [Mailtrap](https://mailtrap.io/) y creando un inbox.
 - Si necesitas cambiar el puerto del backend o del frontend, asegúrate de actualizar las URLs correspondientes en los archivos `.env` y `.env.local`.
+- Puedes obtener las credenciales para Mailtrap registrándote en [Mailtrap](https://mailtrap.io/) y creando un inbox.
+- ¿Por qué Mailtrap? Mailtrap es una página para envío de correos de prueba para desarrolladores, en este caso la utilicé para envío de tokens de registro y reset del password,
+    pero en sí puedes cambiarlo por Resend si compras un dominio o con cualquier librería que te guste, pero Resend es muuuy fácil de implementar. 
+    En este caso, si haces un deploy con la API de Mailtrap, tus usuarios nunca recibirán el correo de confirmación para la acción que deseen realizar ya que caeran en TU inbox de mailtrap.
 
 ## Contribuciones
 
