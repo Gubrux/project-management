@@ -4,7 +4,7 @@ Este proyecto es una aplicación de gestión de proyectos con un backend basado 
 # Link al proyecto: https://tickedfrontend.vercel.app/auth/login
 
 ## <img src="https://skillicons.dev/icons?i=vercel"/> Deploy hecho con Vercel para el FrontEnd y Render para el BackEnd
-### Se están utilizando capas gratuitas para alojar tanto el BackEnd como el FrontEnd, por ende, puede demorar un minuto aproximadamente para levantar la pagina.
+### Disclaimer: Se están utilizando capas gratuitas para alojar tanto el BackEnd como el FrontEnd, por ende, puede demorar un minuto aproximadamente para levantar la pagina.
 ## Requisitos
 
 - Node.js
