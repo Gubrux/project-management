@@ -3,7 +3,8 @@
 Este proyecto es una aplicación de gestión de proyectos con un backend basado en Node.js y Express, y un frontend creado con React y Vite.
 # Link al proyecto: https://tickedfrontend.vercel.app/auth/login
 
-## <img src="https://skillicons.dev/icons?i=vercel"/> Deploy hecho con Vercel para el frontend   y Render para el backend
+## <img src="https://skillicons.dev/icons?i=vercel"/> Deploy hecho con Vercel para el FrontEnd y Render para el BackEnd
+### Se están utilizando capas gratuitas para alojar tanto el BackEnd como el FrontEnd, por ende, puede demorar un minuto aproximadamente para levantar la pagina.
 ## Requisitos
 
 - Node.js
